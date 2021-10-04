@@ -1,0 +1,7 @@
+server:
+  port: 9022
+  servlet:
+    context-path: /async/v1
+
+services:
+  url: http://jsonplaceholder.typicode.com
